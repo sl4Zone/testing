@@ -1,6 +1,6 @@
 {
     "name": "Discorde",
-    "is_dark": true,
+    "is_dark": false,
     "colors": {
         "accent-color": "#ad8900",
         "primary-color": "#00b0f4",
