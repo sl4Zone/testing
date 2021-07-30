@@ -13,10 +13,10 @@
         "roomlist-highlights-color": "#393c42",
         "roomlist-separator-color": "#36393f",
 
-        "timeline-background-color": "#36393f",
-        "timeline-text-color": "#FFFFFF",
-        "timeline-text-secondary-color": "#99AAB5",
-        "timeline-highlights-color": "#32353b",
-        "reaction-row-button-selected-bg-color": "#b9bbbe"
+        "timeline-background-color": "#eceff4",
+        "timeline-text-color": "#2e3440",
+        "timeline-text-secondary-color": "#3b4252",
+        "timeline-highlights-color": "#e5e9f0",
+        "reaction-row-button-selected-bg-color": "#bf616a"
     }
 }
