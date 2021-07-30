@@ -1,6 +1,6 @@
 {
-    "name": "Discordeyoe",
-    "is_dark": true,
+    "name": "Discordeyoed",
+    "is_dark": false,
     "colors": {
         "accent-color": "#7289DA",
         "primary-color": "#00b0f4",
