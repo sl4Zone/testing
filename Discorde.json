@@ -1,6 +1,6 @@
 {
     "name": "Discordedy",
-    "is_dark": false,
+    "is_dark": true,
     "colors": {
         "accent-color": "#7289DA",
         "primary-color": "#00b0f4",
